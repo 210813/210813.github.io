@@ -46,7 +46,7 @@
                     ]
                 })('overlay', {
                     /** SLIDESHOW OVERLAY IMAGE **/
-                    src: 'assets/plugins/vegas/overlays/14.png' // THERE ARE TOTAL 01 TO 15 .png IMAGES AT THE PATH GIVEN, WHICH YOU CAN USE HERE
+                    src: 'http://screenrant.com/wp-content/uploads/The-Flash-Extended-Promo-Teases-Reverse-Flash.png' // THERE ARE TOTAL 01 TO 15 .png IMAGES AT THE PATH GIVEN, WHICH YOU CAN USE HERE
                 });
 
             });
